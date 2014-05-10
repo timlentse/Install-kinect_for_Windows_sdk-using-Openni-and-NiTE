@@ -12,9 +12,9 @@ The Kinect for Windows SDK includes the following:
 
 •	Application programming interfaces (APIs) and device interfaces
 
-•	Note: Samples, tools, and other valuable development resources are available in the Kinect for Windows Developer Toolkit.
+•	Note: Samples, tools, and other valuable development resources are available in the [Kinect for Windows Developer Toolkit](http://go.microsoft.com/fwlink/?LinkID=323589).
 
-•	However, if you want to know more about Kinect for Windows Sensor and SDK please click here.
+•	However, if you want to know more about Kinect for Windows Sensor and SDK please click [here](http://www.microsoft.com/en-us/kinectforwindowsdev/start.aspx).
 
 •
 ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/kinect.png)
@@ -39,24 +39,22 @@ Windows 7, Windows 8, Windows 8.1, Windows Embedded Standard 7
 
 •	配置Kinect for windows sensor你需要准备以下软件：
 
-•	Note:按住ctrl并单击就可以访问软件下载点
+•	[KinectSDK-v1.8-Setup.exe](http://download.microsoft.com/download/E/1/D/E1DEC243-0389-4A23-87BF-F47DE869FC1A/KinectSDK-v1.8-Setup.exe)
 
-•	KinectSDK-v1.8-Setup.exe
+•	[SimpleOpenNI-1.96.zip](https://code.google.com/p/simple-openni/downloads/list)
 
-•	SimpleOpenNI-1.96.zip
+•	[NiTE2-Windows-x64(x86)-2.21.zip](http://www.openni.org/files/nite/)
 
-•	NiTE2-Windows-x64(x86)-2.21.zip
+•	[OpenNI-Windows-x64(x86)-2.2.0.33.zip](http://www.openni.org/openni-sdk/)
 
-•	OpenNI-Windows-x64(x86)-2.2.0.33.zip
-
-•	Processing-2.1.2-windows-x64(x86).zip
+•	[Processing-2.1.2-windows-x64(x86).zip](https://www.processing.org/download/?processing)
 
 3.	Install SDK Instructions:
 ==============================
 
 a)	首先确保Kinect传感器没有插入任何电脑上的USB端口。
 
-b)	double-click on KinectSDK-v1.8-Setup.exe，开始安装Kinect for Windows SDK
+b)	double-click on [KinectSDK-v1.8-Setup.exe](http://download.microsoft.com/download/E/1/D/E1DEC243-0389-4A23-87BF-F47DE869FC1A/KinectSDK-v1.8-Setup.exe)，开始安装Kinect for Windows SDK
 正在安装Kinect for windows SDK ：
 
  ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/screenshot1.png)　
@@ -77,7 +75,7 @@ e)	成功安装OpenNI2后，我们就可以安装NITE2了，方法同上。
 
 f)	解压Processing-2.1.2-Windows-x64(x86).zip，此过程只需将压缩包解压到指定的目录即可(不需要安装)，打开解压文件夹：双击processing.exe即可进入processing的编程界面。
 
-Processing一个开源的程序语言及开发环境，提供给那些想要对影像、动画、声音进行程序编辑的工作者。如果有兴趣的话，不妨在editor里面输入ellipse(50,50,80,80);点击运行，在绘制窗口里面会出现一个椭圆，如下图： processing相关的tutorials, click here.
+Processing一个开源的程序语言及开发环境，提供给那些想要对影像、动画、声音进行程序编辑的工作者。如果有兴趣的话，不妨在editor里面输入ellipse(50,50,80,80);点击运行，在绘制窗口里面会出现一个椭圆，如下图： processing相关的tutorials, click [here](http://www.processing.org/tutorials/).
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/screenshot4.png)
 ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/screenshot5.png)
