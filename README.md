@@ -22,18 +22,31 @@ Kinect支持的操作系统：
 Windows 7, Windows 8, Windows 8.1, Windows Embedded Standard 7
 
 •	硬件要求：
+
 •	要使用 Kinect for Windows 传感器，您需要一台安装了以下软件的PC：
+
 •	32 位 (x86) 或 64 位 (x64) 处理器
+
 •	专用的 USB 2.0 总线
+
 •	2 GB RAM
+
 •	一台Microsoft Kinect for Windows 传感器
+
 •	配置Kinect for windows sensor你需要准备以下软件：
+
 •	Note:按住ctrl并单击就可以访问软件下载点
+
 •	KinectSDK-v1.8-Setup.exe
+
 •	SimpleOpenNI-1.96.zip
+
 •	NiTE2-Windows-x64(x86)-2.21.zip
+
 •	OpenNI-Windows-x64(x86)-2.2.0.33.zip
+
 •	Processing-2.1.2-windows-x64(x86).zip
+
 3.	Install SDK Instructions:
 ==============================
 a)	首先确保Kinect传感器没有插入任何电脑上的USB端口。
