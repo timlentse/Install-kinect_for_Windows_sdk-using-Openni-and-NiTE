@@ -17,8 +17,10 @@ The Kinect for Windows SDK includes the following:
 
 2.	操作系统及软硬件要求
 ==========================
+
 Kinect支持的操作系统：
 Windows 7, Windows 8, Windows 8.1, Windows Embedded Standard 7
+
 •	硬件要求：
 •	要使用 Kinect for Windows 传感器，您需要一台安装了以下软件的PC：
 •	32 位 (x86) 或 64 位 (x64) 处理器
