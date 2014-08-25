@@ -1,4 +1,4 @@
-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE 
+Installing kinect_for_Windows_sdk using Openni and NiTE 
 ===========================================================
 
  This tutorial will  introduce how to install kinect for windows sdk(v1.8) (Openni and Nite)
@@ -19,25 +19,25 @@ The Kinect for Windows SDK includes the following:
 •
 ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/kinect.png)
 
-2.	操作系统及软硬件要求
+2.	Requirements
 ==========================
 
-Kinect支持的操作系统：
+Support OS：
 Windows 7, Windows 8, Windows 8.1, Windows Embedded Standard 7
 
-•	硬件要求：
+•	Hardware requirements：
 
-•	要使用 Kinect for Windows 传感器，您需要一台安装了以下软件的PC：
+•	 Kinect for Windows sensors and a PC with the following minimum capabilities：
 
-•	32 位 (x86) 或 64 位 (x64) 处理器
+•	32 bit (x86) or 64 bit (x64) processor
 
-•	专用的 USB 2.0 总线
+•	Dedicated USB 2.0 bus
 
 •	2 GB RAM
 
-•	一台Microsoft Kinect for Windows 传感器
+•	A Microsoft Kinect for Windows sensor
 
-•	配置Kinect for windows sensor你需要准备以下软件：
+•	To get your Kinect for windows sensor started you must need the following softwares:
 
 •	[KinectSDK-v1.8-Setup.exe](http://download.microsoft.com/download/E/1/D/E1DEC243-0389-4A23-87BF-F47DE869FC1A/KinectSDK-v1.8-Setup.exe)
 
@@ -52,20 +52,20 @@ Windows 7, Windows 8, Windows 8.1, Windows Embedded Standard 7
 3.	Install SDK Instructions:
 ==============================
 
-a)	首先确保Kinect传感器没有插入任何电脑上的USB端口。
+a)	Make sure the Kinect sensor is not plugged into any of the USB ports on the computer.
 
 b)	double-click on [KinectSDK-v1.8-Setup.exe](http://download.microsoft.com/download/E/1/D/E1DEC243-0389-4A23-87BF-F47DE869FC1A/KinectSDK-v1.8-Setup.exe)，开始安装Kinect for Windows SDK
-正在安装Kinect for windows SDK ：
+Installing Kinect for windows SDK ：
 
  ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/screenshot1.png)　
  
-安装完成，点击关闭退出！
+Installation finished and close the windows！
 
-c)	成功安装KinectSDK-v1.8-Setup.exe之后，把kinect传感器的usb插口接上电脑的usb端口（确保kinect传感器已经通上电源插头），kinect传感器相关的驱动会自动安装。
+c)	After installing KinectSDK-v1.8-Setup.exe sucessfully，ensure the Kinect sensor is plugged into an external power source and then plug the Kinect sensor into the PC's USB port. The drivers will load automatically.
 
  ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/screenshot2.png)
  
-驱动安装完成会自动退出安装界面，我们可以到设备管理器查看驱动是否安装好：
+The installing winzard will disappear when finished installing driver and we can check it in the device manager：
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/screenshot3.png)
  
@@ -83,7 +83,7 @@ Processing一个开源的程序语言及开发环境，提供给那些想要对�
    
 g)	最后一步解压SimpleOpenNI-1.96.zip(对于windows用户来说解压目录一定要是C:\Users\Administrator\Documents\Processing\libraries，否则运行案例程序会报错no librares found)，SimpleOpenNI为一些在processing里面编写的OpenNI的例程，我们可以SimpleOpenNI\examples\OpenNI里面找到相关的程序。
 
-4.	测试：
+4.	Test：
 ================
 
 安装好以上的软件后，我们到了测试阶段，以检测我们的kinect是否可以正常使用了，不妨使用OpenNI自带的程序来作为测试工具。
