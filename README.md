@@ -22,7 +22,7 @@ The Kinect for Windows SDK includes the following:
 2.	Requirements
 ==========================
 
-Support OS：
+Supported OS：
 Windows 7, Windows 8, Windows 8.1, Windows Embedded Standard 7
 
 •	Hardware requirements：
@@ -69,11 +69,11 @@ The installing winzard will disappear when finished installing driver and we can
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/-Installing--kinect-for-windows-sdk--using-Openni-and-NiTE-/master/screenshot3.png)
  
-d)	成功安装好kinect SDK跟kinect driver后，接下来就是OpenNI2的安装，选定下载对应版本的安装包（安装方式：“下一步”策略，安装目录自定）
+d)	Install OpenNI2（how to? --just click “next”button，You can also customize the installation directory）
 
-e)	成功安装OpenNI2后，我们就可以安装NITE2了，方法同上。
+e)	Install NITE2 。
 
-f)	解压Processing-2.1.2-Windows-x64(x86).zip，此过程只需将压缩包解压到指定的目录即可(不需要安装)，打开解压文件夹：双击processing.exe即可进入processing的编程界面。
+f)	Unzip the Processing-2.1.2-Windows-x64(x86).zip and put it to wherever you want,double click processing.exe and you will enter the processing IDE。
 
 Processing一个开源的程序语言及开发环境，提供给那些想要对影像、动画、声音进行程序编辑的工作者。如果有兴趣的话，不妨在editor里面输入ellipse(50,50,80,80);点击运行，在绘制窗口里面会出现一个椭圆，如下图： processing相关的tutorials, click [here](http://www.processing.org/tutorials/).
 
