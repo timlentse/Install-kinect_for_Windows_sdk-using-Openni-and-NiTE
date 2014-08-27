@@ -1,4 +1,4 @@
-Install kinect_for_Windows_sdk using Openni and NiTE 
+Install `kinect for Windows sdk` using Openni and NiTE 
 ===========================================================
 
  This tutorial will  introduce how to install kinect for windows sdk(v1.8) (Openni and Nite)
